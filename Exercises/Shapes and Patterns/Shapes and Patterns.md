@@ -1,41 +1,51 @@
-# Exercise Name
+# Shapes and Patterns Exercise Specifications
 
 ## Versioning
 
-Version: 0.1.0 (initial write up) -- 0.#.# versions have not yet been reviewed by a subject matter expert. The middle number refers to which major version (first digit) is being edited, and the last digit is the editing iteration.
+Version: 0.1.0 (initial write up)
 
-Last Updated: 2017 Aug 26 -- this is the date of the last changes, no matter how small, to the document. Updates that add or remove information, or that change the meaning or word choice within the specification should increment the editing iteration, while those that simply fix misspellings do not.
+Last Updated: 2017 Aug 29
 
-Contributors: -- the names of the individuals who worked on this specification. 
+Contributor(s): S. Holmes
 
 ## Introduction
 
-A brief description of the exercise and its purpose.
+This exercise helps build visual memory by having participants re-create the designs they are given.
 
 ## Special Considerations
 
-Reference to the General Guidelines should be included, such as:
-All considerations noted in the [General Guidelines][guidelines] apply. In addition, ....
-
-And then list any warnings or special circumstances particular to this exercise that participants should be aware of before beginning the exercise.
+All considerations noted in the [General Guidelines][guidelines] apply. 
 
 ## Format
 
-Describe any special materials needed as well as the manner in which the participant should complete the exercise.
+The Shapes and Patterns exercise makes use of a square grid composed of dots. The designs are made by connecting the dots in the gird with direct lines (no curves). Participants may have as much time as they desire to study the design before attempting to re-create it. While re-creating the design, participants should not be able to view the original design.
 
 ## Difficulty Progression
 
+The difficulty of this exercise is influenced most by the complexity of the design being copied, with the following factors being of particular concern:
+- the size of the grid upon which the designs are based
+- the number of times lines change direction 
+- how many times the participant needs to lift their pen to re-create the design
+- how many smaller shapes are present within the design
+
 ### Simple Difficulty
 
-Specifications for the least difficult or strenuous level of this exercise.
+- the grid should be a three by three (3x3) square
+- the design should contain no more than two (2) intersecting lines
+- the design should be contiguous
+- the design should use simple geometric shapes
 
 ### Moderate Difficulty
 
-Specifications for a medium difficulty of this exercise.
+- the grid should be a four by four (4x4) square
+- the design should contain no more than four (4) intersecting lines
+- the design should be mostly contiguous
+- the design should use simple geometric shapes which may or may not combine to form recognizable images
 
 ### Advanced Difficulty
 
-Specifications for the most difficult or stenuous level of this exercise.
-
+- the grid should be a five by five (5x5) square
+- the design should contain no more than six (6) intersecting lines
+- the design should combine simple geometric shapes into recognizable images
 
 [guidelines]: https://github.com/sbbholmes/VisionSkills.xyz/tree/structure/Exercises/General%20Guidelines.md

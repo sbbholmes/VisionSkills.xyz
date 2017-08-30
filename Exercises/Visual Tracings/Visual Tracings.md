@@ -1,41 +1,49 @@
-# Exercise Name
+# Visual Tracings
 
 ## Versioning
 
-Version: 0.1.0 (initial write up) -- 0.#.# versions have not yet been reviewed by a subject matter expert. The middle number refers to which major version (first digit) is being edited, and the last digit is the editing iteration.
+Version: 0.1.0 (initial write up) 
 
-Last Updated: 2017 Aug 26 -- this is the date of the last changes, no matter how small, to the document. Updates that add or remove information, or that change the meaning or word choice within the specification should increment the editing iteration, while those that simply fix misspellings do not.
+Last Updated: 2017 Aug 29
 
-Contributors: -- the names of the individuals who worked on this specification. 
+Contributor(s): S. Holmes 
 
 ## Introduction
 
-A brief description of the exercise and its purpose.
+Visual tracings help to develop the muscles in the eyes that control how the eyes track objects. 
 
 ## Special Considerations
 
-Reference to the General Guidelines should be included, such as:
-All considerations noted in the [General Guidelines][guidelines] apply. In addition, ....
-
-And then list any warnings or special circumstances particular to this exercise that participants should be aware of before beginning the exercise.
+All considerations noted in the [General Guidelines][guidelines] apply. 
 
 ## Format
 
-Describe any special materials needed as well as the manner in which the participant should complete the exercise.
+This exercise makes use of images depicting curving lines joining a number to a letter. 
 
 ## Difficulty Progression
 
+The difficulty of this exercise is influenced by:
+- the number of curves and intersections in each image
+- the amount of joined numbers and letters in each image
+- the ratio of letters to numbers
+- the closeness of the curves to each other
+
 ### Simple Difficulty
 
-Specifications for the least difficult or strenuous level of this exercise.
+- contains 3 numbers joined to 3 letters
+- contains no more than eight (8) intersections per line
+- may contain an additional 2 letters, joined to each other
 
 ### Moderate Difficulty
 
-Specifications for a medium difficulty of this exercise.
+- contains 4 numbers joined to 4 letters
+- contains no more than fifteen (15) intersections per line, and no less than six (6)
+- may contain an additional 2 letters, joined to each other
 
 ### Advanced Difficulty
 
-Specifications for the most difficult or stenuous level of this exercise.
+- contains 5 numbers joined to 5 letters
+- contains no more than twenty-five (25) intersections per line, and no less than ten (10)
 
 
 [guidelines]: https://github.com/sbbholmes/VisionSkills.xyz/tree/structure/Exercises/General%20Guidelines.md
