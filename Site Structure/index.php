@@ -7,5 +7,5 @@ $the_path = '';
 ?>
 
 <?php
-include './includes/unified.php';
+include '/includes/unified.php';
 ?>
