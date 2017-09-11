@@ -1,6 +1,6 @@
 # Sayings Grid Specifications
 
-Version: 0.1.0 (initial write up)
+Version: 0.1.1 (initial write up)
 
 Last Updated: 2017 Aug 29
 
@@ -37,15 +37,19 @@ The difficulty of a sayings grid is determined by a combination of the following
 Replace upper case words in the instruction formats below with their references.
 
 A: "In ROW-COLUMN, place the letter LETTER."
+
 B: "In COLUMN-ROW, place the letter LETTER."
 
 C: "Place the letter LETTER in ROW-COLUMN."
+
 D: "Place the letter LETTER in COLUMN-ROW."
 
 E: "In ROW-COLUMN, place the ORDERNAL letter in the word WORD."
+
 F: "In COLUMN-ROW, place the ORDERNAL letter in the word WORD."
 
 G: "Place the ORDERNAL letter in the word WORD in ROW-COLUMN."
+
 H: "Place the ORDERNAL letter in the word WORD in COLUMN-ROW."
 
 ### Simple Difficulty
